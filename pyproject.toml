@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "extended-tortoise-models"
-version = "0.1.1"
+version = "0.1.2"
 description = "Extended models for tortoise; less boilerplate for everybody! ⛰"
 authors = ["Can H. Tartanoglu <canhtart@gmail.com>"]
 readme = "README.md"
